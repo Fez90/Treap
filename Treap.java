@@ -1,12 +1,8 @@
 import java.util.Random;
 import java.util.Stack;
 
-/* 
- * Feruz Karimov
- * CS-570
- * Assignment 5
- * 
- */
+// Feruz Karimov
+
 
 public class Treap<E extends Comparable<E>> {
 
