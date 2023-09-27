@@ -1,9 +1,6 @@
 import java.util.Random;
 import java.util.Stack;
 
-// Feruz Karimov
-
-
 public class Treap<E extends Comparable<E>> {
 
     private static class Node<E> {
